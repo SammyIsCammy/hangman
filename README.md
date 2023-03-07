@@ -1,2 +1,2 @@
 # hangman
-Hangman console game written in Python. ASCII Art Included! 
+Hangman console game written in Python. 
